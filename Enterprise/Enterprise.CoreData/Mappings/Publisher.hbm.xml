@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="Publisher" table="publishers" lazy="true">
+    <id name="ID" column="id" type="long" generator="native"/>
+    <property name="Title" column="publisher_title" type="string" length="50" not-null="true"/>
+    <bag name="PublisherBooks" inverse="true" lazy="true" cascade="all-delete-orphan">
+      <key column="publisher_id"/>
+      <one-to-many class="Book"/>
+    </bag>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,67 @@
+﻿<wsdl:definitions xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://tempuri.org/"> 
+  <wsdl:types>
+    <s:schema  targetNamespace="http://tempuri.org/" elementFormDefault="qualified">
+      <s:element name="GetOverdueRecoveringOrders">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetOverdueRecoveringOrdersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetOverdueRecoveringOrdersResult" minOccurs="0" maxOccurs="1">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema"/>
+                  <s:any/>
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetOverdueRecoveringOrdersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOverdueRecoveringOrders"/>
+  </wsdl:message>
+  <wsdl:message name="GetOverdueRecoveringOrdersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOverdueRecoveringOrdersResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="DataSerServiceSoap">
+    <wsdl:operation name="GetOverdueRecoveringOrders">
+      <wsdl:input message="tns:GetOverdueRecoveringOrdersSoapIn"/>
+      <wsdl:output message="tns:GetOverdueRecoveringOrdersSoapOut"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DataSetServiceSoap" type="tns:DataSetServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="GetOverdueRecoveringOrders">
+      <soap:operation soapAction="http://tempuri.org/GetOverdueRecoveringOrders" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DataSetServiceSoap12" type="tns:DataSetServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="GetOverdueRecoveringOrders">
+      <soap12:operation soapAction="http://tempuri.org/GetOverdueRecoveringOrders" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DataSetService">
+    <wsdl:port name="DataSetServiceSoap" binding="tns:DataSetServiceSoap">
+      <soap:address location="http://localhost:51737/DataSetService.asmx"/>
+    </wsdl:port>
+    <wsdl:port name="DataSetServiceSoap12" binding="tns:DataServiceSoap12">
+      <soap:address location="http://localhost:51737/DataSetService.asmx"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

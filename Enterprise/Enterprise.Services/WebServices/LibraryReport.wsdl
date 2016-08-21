@@ -1,0 +1,1251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema">
+  <wsdl:types>
+    <s:schema targetNamespace="http://tempuri.org/" elementFormDefault="qualified">
+       <s:element name="GetPublisherBy">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="title" type="s:long" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPublisherByResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetPublisherByResult" type="tns:PublisherDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="PublisherDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="Title" type="s:string" maxOccurs="1" minOccurs="0"/>
+              <s:element name="Book" type="tns:ArrayOfBookDto" maxOccurs="1" minOccurs="0"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BaseDtoOfInt64" abstract="true">
+        <s:sequence>
+          <s:element name="ID" type="s:long" maxOccurs="1" minOccurs="1"/>
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AuthorDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="FirstName" type="s:string" minOccurs="0" maxOccurs="1"/>
+              <s:element name="LastName" type="s:string" minOccurs="0" maxOccurs="1"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BookDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="Description" type="s:string" minOccurs="0" maxOccurs="1"/>
+              <s:element name="Isbn" type="s:string" minOccurs="0" maxOccurs="1"/>
+              <s:element name="PenaltyPrice" type="s:double" minOccurs="0" maxOccurs="1"/>
+              <s:element name="BookAuthors" type="tns:ArrayOfAuthorDto" maxOccurs="1" minOccurs="0"/>
+              <s:element name="Publisher" type="tns:PublisherDto" maxOccurs="1" minOccurs="0"/>
+              <s:element name="PublisherId" type="s:long" maxOccurs="1" minOccurs="1"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfAuthorDto">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="AuthorDto" nillable="true"/>
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBookDto">
+        <s:sequence>
+          <s:element name="BookDto" type="tns:BookDto" maxOccurs="unbounded" minOccurs="0" nillable="true"/>
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetPublishers">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetPublishersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetPublishersResult" type="tns:ArrayOfPublisherDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>       
+      </s:element>
+      <s:complexType name="ArrayOfPublisherDto">
+        <s:sequence>
+          <s:element name="PublisherDto" type="tns:PublisherDto" minOccurs="0" maxOccurs="unbounded"  nillable="true"/>
+         </s:sequence>     
+      </s:complexType>
+      <s:element name="GetReaders">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetReadersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetReadersResult" type="tns:ArrayOfReaderDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfReaderDto">
+        <s:sequence>
+          <s:element name="ReaderDto" type="tns:ReaderDto" minOccurs="0" maxOccurs="unbounded"  nillable="true"/>
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ReaderDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="EmailIdentity" type="tns:EmailDto" maxOccurs="1" minOccurs="0"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="EmailDto">
+        <s:sequence>
+          <s:element name="EmailAddress" minOccurs="0" maxOccurs="1" type="s:string"/>
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdatePublisher">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="publisher" type="tns:PublisherDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdatePublisherResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdatePublisherResult" type="s:boolean"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAuthor">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="author" type="tns:AuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateAuthorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateAuthorResult" type="s:boolean"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReader">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="emailAddress" type="s:string" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReaderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetReaderResult" type="tns:ReaderDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetBooks">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetBooksResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetBooksResult" type="tns:ArrayOfBookDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRelationBookToAuthor">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetRelationBookToAuthorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetRelationBookToAuthorResult" type="tns:ArrayOfBookToAuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfBookToAuthorDto">
+        <s:sequence>
+          <s:element name="BookToAuthorDto" type="tns:BookToAuthorDto" minOccurs="0" maxOccurs="unbounded"  nillable="true"/>
+        </s:sequence> 
+      </s:complexType>
+      <s:complexType name="BookToAuthorDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="Book" type="tns:BookDto" maxOccurs="1" minOccurs="1"/>
+              <s:element name="Author" type="tns:AuthorDto" maxOccurs="1" minOccurs="1"/>
+              <s:element name="PositionAuthorList" type="s:int" maxOccurs="1" minOccurs="1"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>     
+      </s:complexType>
+      <s:element name="GetAuthorCatalogPagination">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pageNumber" type="s:int"/>
+            <s:element minOccurs="1" maxOccurs="1" name="pageSize" type="s:int"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAuthorCatalogPaginationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAuthorCatalogPaginationResult" type="tns:ArrayOfAuthorDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetItems">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" maxOccurs="1" minOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetItemsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetItemsResult" type="tns:ArrayOfItemDto" maxOccurs="1" minOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfItemDto">
+        <s:sequence>
+          <s:element name="ItemDto" type="tns:ItemDto" maxOccurs="unbounded" minOccurs="0"/> 
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ItemDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="IsOrdered" type="s:boolean" maxOccurs="1" minOccurs="1"/>
+              <s:element name="IsReadCarted" type="s:boolean" maxOccurs="1" minOccurs="1"/>
+              <s:element name="InventorySerialCode" type="s:string" maxOccurs="1" minOccurs="1"/>
+              <s:element name="RecoveredDate" type="s:dateTime" maxOccurs="1" minOccurs="1"/>
+              <s:element name="PlanedRecoveringDate" type="s:dateTime" maxOccurs="1" minOccurs="1"/>
+              <s:element name="Book" type="tns:BookDto" maxOccurs="1" minOccurs="1"/>
+              <s:element name="ReaderCartSelection" type="tns:ReaderCartSelectionDto" maxOccurs="1" minOccurs="1"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ReaderCartSelectionDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="CurrentBook" type="tns:BookDto" minOccurs="0" maxOccurs="1"/>
+              <s:element name="ParrentCart" type="tns:ReadingCartDto" minOccurs="0" maxOccurs="1"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ReadingCartDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="CartOfReader" type="tns:ReaderDto"/>
+              <s:element minOccurs="0" maxOccurs="1" name="OrderByReadingCart" type="tns:OrderDto"/>
+              <s:element minOccurs="0" maxOccurs="1" name="CartNumber" type="s:string"/>
+              <s:element minOccurs="0" maxOccurs="1" name="CartSelections" type="tns:ArrayOfReaderCartSelectionDto"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="OrderDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="OrderItems" type="tns:ArrayOfItemDto"/>
+              <s:element minOccurs="1" maxOccurs="1" name="OrderDate" type="s:dateTime"/>
+              <s:element minOccurs="0" maxOccurs="1" name="OrderNumber" type="s:string"/>
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfReaderCartSelectionDto">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ReaderCartSelectionDto" nillable="true" type="tns:ReaderCartSelectionDto"/>
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetItemsByBooks">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="bookIds" type="tns:ArrayOfLong" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfLong">
+        <s:sequence>
+          <s:element name="long" type="s:long" maxOccurs="unbounded" minOccurs="0"/>
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetItemsByBooksResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetItemsByBooksResult" type="tns:ArrayOfItemDto" maxOccurs="1" minOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReaderCartSelections">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetReaderCartSelectionsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReaderCartSelectionsResult" type="tns:ArrayOfReaderCartSelectionDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPublisehrCatalogPagination">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pageNumber" type="s:int"/>
+            <s:element minOccurs="1" maxOccurs="1" name="pageSize" type="s:int"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPublisehrCatalogPaginationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPublisehrCatalogPaginationResult" type="tns:ArrayOfPublisherDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetIndexesByLucene">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="filter" type="s:string" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetIndexesByLuceneResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetIndexesByLuceneResult" type="tns:ArrayOfLong" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRelationBookToAuthorBySearch">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="bookToauthorIndexes" type="tns:ArrayOfLong" minOccurs="0" maxOccurs="1"  nillable="true"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRelationBookToAuthorBySearchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetRelationBookToAuthorBySearchResult" type="tns:ArrayOfBookToAuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRelationBookToAuthorPagination">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pageNumber" type="s:int"/>
+            <s:element minOccurs="1" maxOccurs="1" name="pageSize" type="s:int"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRelationBookToAuthorPaginationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRelationBookToAuthorPaginationResult" type="tns:ArrayOfBookToAuthorDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAuthors">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetAuthorsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetAuthorsResult" type="tns:ArrayOfAuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCatalogGrafbyBookId">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="bookId" type="s:long" minOccurs="0" maxOccurs="1"/> 
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCatalogGrafbyBookIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetCatalogGrafbyBookIdResult" type="tns:ArrayOfBookToAuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRelationBookToAuthor">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="relations" type="tns:ArrayOfBookToAuthorDto" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRelationBookToAuthorResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="SetReaderCartSelections">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" minOccurs="0" maxOccurs="1"/>
+            <s:element name="bookIds" type="tns:ArrayOfLong" maxOccurs="unbounded" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetReaderCartSelectionsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="SetReaderCartSelectionResult" type="tns:ArrayOfLong" maxOccurs="1" minOccurs="0"/>
+           </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetReaderCartSelection">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" minOccurs="0" maxOccurs="1"/>
+            <s:element name="bookId" type="s:long" minOccurs="0" maxOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetReaderCartSelectionResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="SetOrderItemRecoveryDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="bookId" type="s:long" minOccurs="0" maxOccurs="1"/>
+            <s:element name="date" type="s:dateTime" minOccurs="0" maxOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SetOrderItemRecoveryDateResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="RemoveReaderCartSelection">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" minOccurs="0" maxOccurs="1"/>
+            <s:element name="bookId" type="s:long" minOccurs="0" maxOccurs="1"/>
+            <s:element name="readercartselectionId" type="s:long" minOccurs="0" maxOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RemoveReaderCartSelectionResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetReaderBy">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="readerId" type="s:long"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReaderByResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReaderByResult" type="tns:ReaderDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReaderCartSelectionByOrder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="readerId" type="s:long"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReaderCartSelectionByOrderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReaderCartSelectionByOrderResult" type="tns:ReadingCartDto"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SavePublisher">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="title" type="s:string"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SavePublisherResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="OrderedReadingCartBy">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" minOccurs="0" maxOccurs="1"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="OrderedReadingCartByResponse">
+        <s:complexType/>
+      </s:element>
+      <s:element name="GetApprovedOrdersByReader">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="readerId" type="s:long" maxOccurs="1" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetApprovedOrdersByReaderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element name="GetApprovedOrdersByReaderResult" type="tns:ArrayOfApprovedOrderDto" maxOccurs="unbounded" minOccurs="0"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfApprovedOrderDto">
+        <s:sequence>
+          <s:element name="ApprovedOrderDto" type="tns:ApprovedOrderDto" maxOccurs="unbounded" minOccurs="0" nillable="true"/>
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ApprovedOrderDto">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseDtoOfInt64">
+            <s:sequence>
+              <s:element name="ApprovedNumber" type="s:string" maxOccurs="1" minOccurs="1"/>
+              <s:element name="OrderedDate" type="s:dateTime" maxOccurs="1" minOccurs="1"/>
+              <s:element name="RecoveredDate" type="s:dateTime" maxOccurs="1" minOccurs="1"/>
+              <s:element name="OrderItems" type="tns:ItemDto" maxOccurs="unbounded" minOccurs="0"/>
+             </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetPublisherBySoapIn">
+    <wsdl:part name="parameters" element="tns:GetPublisherBy"/>
+  </wsdl:message>
+  <wsdl:message name="GetPublisherBySoapOut">
+    <wsdl:part name="parameters" element="tns:GetPublisherByResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetPublishersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPubllshers"/>
+  </wsdl:message>
+  <wsdl:message name="GetPublishersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPublishersResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReader"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReaderResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetReadersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReaders"/>
+  </wsdl:message>
+  <wsdl:message name="GetReadersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReadersResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetBooksSoapIn">
+    <wsdl:part name="parameters" element="tns:GetBooks"/>
+  </wsdl:message>
+  <wsdl:message name="GetBooksSoapOut">
+    <wsdl:part name="parameters" element="tns:GetBooksResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthor"/>
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthorResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorPaginationSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthorPagination"/>
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorPaginationSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthorPaginationResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetPublisehrCatalogPaginationSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPublisehrCatalogPagination"/>
+  </wsdl:message>
+  <wsdl:message name="GetPublisehrCatalogPaginationSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPublisehrCatalogPaginationResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetAuthorCatalogPaginationSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAuthorCatalogPagination"/>
+  </wsdl:message>
+  <wsdl:message name="GetAuthorCatalogPaginationSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAuthorCatalogPaginationResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetAuthorsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAuthors"/>
+  </wsdl:message>
+  <wsdl:message name="GetAuthorsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAuthorsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorBySearchSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthorBySearch" />
+  </wsdl:message>
+  <wsdl:message name="GetRelationBookToAuthorBySearchSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRelationBookToAuthorBySearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetIndexesByLuceneSoapIn">
+    <wsdl:part name="parameters" element="tns:GetIndexesByLucene"/>
+  </wsdl:message>
+  <wsdl:message name="GetIndexesByLuceneSoapOut">
+    <wsdl:part name="parameters" element="tns:GetIndexesByLuceneResponse"/>
+  </wsdl:message>
+  <wsdl:message name="UpdateRelationBookToAuthorSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateRelationBookToAuthor"/>
+  </wsdl:message>
+  <wsdl:message name="UpdateRelationBookToAuthorSoupOut">
+    <wsdl:part name="parameters" element="UpdateRelationBookToAuthorResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetCatalogGrafbyBookIdSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCatalogGrafbyBookId"/>
+  </wsdl:message>
+  <wsdl:message name="GetCatalogGrafbyBookIdSoupOut">
+    <wsdl:part name="parameters" element="GetCatalogGrafbyBookIdResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetItemsSoapIn">
+    <wsdl:part name="parameters" element="tns:GetItems"/>
+  </wsdl:message>
+  <wsdl:message name="GetItemsSoapOut">
+    <wsdl:part name="parameters" element="tns:GetItemsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetItemsByBooksIn">
+    <wsdl:part name="parameters" element="tns:GetItemsByBooks"/>
+  </wsdl:message>
+  <wsdl:message name="GetItemsByBooksOut">
+    <wsdl:part name="parameters" element="tns:GetItemsByBooksResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderCartSelectionsIn">
+    <wsdl:part name="parameters" element="tns:GetReaderCartSelections"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderCartSelectionsOut">
+    <wsdl:part name="parameters" element="tns:GetReaderCartSelectionsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="SetReaderCartSelectionsOut">
+    <wsdl:part name="parameters" element="tns:SetReaderCartSelectionsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="SetReaderCartSelectionIn">
+    <wsdl:part name="parameters" element="tns:SetReaderCartSelection"/>
+  </wsdl:message>
+  <wsdl:message name="SetReaderCartSelectionOut">
+    <wsdl:part name="parameters" element="tns:SetReaderCartSelectionResponse"/>
+  </wsdl:message>
+  <wsdl:message name="SetOrderItemRecoveryDateIn">
+    <wsdl:part name="parameters" element="tns:SetOrderItemRecoveryDate"/>
+  </wsdl:message>
+  <wsdl:message name="SetOrderItemRecoveryDateOut">
+    <wsdl:part name="parameters" element="tns:SetOrderItemRecoveryDateResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetApprovedOrdersByReaderIn">
+    <wsdl:part name="parameters" element="tns:GetApprovedOrdersByReader"/>
+  </wsdl:message>
+  <wsdl:message name="GetApprovedOrdersByReaderOut">
+    <wsdl:part name="parameters" element="tns:GetApprovedOrdersByReaderResponse"/>
+  </wsdl:message>
+  <wsdl:message name="RemoveReaderCartSelectionIn">
+    <wsdl:part name="parameters" element="tns:RemoveReaderCartSelection"/>
+  </wsdl:message>
+  <wsdl:message name="RemoveReaderCartSelectionOut">
+    <wsdl:part name="parameters" element="tns:RemoveReaderCartSelectionResponse"/>
+  </wsdl:message>
+  <wsdl:message name="SavePublisherSoapIn">
+    <wsdl:part name="parameters" element="tns:SavePublisher"/>
+  </wsdl:message>
+  <wsdl:message name="SavePublisherSoapOut">
+    <wsdl:part name="parameters" element="tns:SavePublisherResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderBySoapIn">
+    <wsdl:part name="parameters" element="tns:GetReaderBy"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderBySoapOut">
+    <wsdl:part name="parameters" element="tns:GetReaderByResponse"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderCartSelectionByOrderSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReaderCartSelectionByOrder"/>
+  </wsdl:message>
+  <wsdl:message name="GetReaderCartSelectionByOrderSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReaderCartSelectionByOrderResponse"/>
+  </wsdl:message>
+  <wsdl:message name="OrderedReadingCartByIn">
+    <wsdl:part name="parameters" element="tns:OrderedReadingCart"/>
+  </wsdl:message>
+  <wsdl:message name="OrderedReadingCartByOut">
+    <wsdl:part name="parameters" element="tns:OrderedreadingCartResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="LibraryReportSoap">
+    <wsdl:operation name="GetPublisherBy">
+      <wsdl:input message="tns:GetPublisherBySoapIn"/>
+      <wsdl:output message="tns:GetPublisherBySoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublishers">
+      <wsdl:input message="tns:GetPublishersSoapIn"/>
+      <wsdl:output message="tns:GetPublishersSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetReader">
+      <wsdl:input message="tns:GetReaderSoapIn"/>
+      <wsdl:output message="tns:GetReaderSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaders">
+      <wsdl:input message="tns:GerReadersSoapIn"/>
+      <wsdl:output message="tns:GetReaderSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetBooks">
+      <wsdl:input message="tns:GerBooksSoapIn"/>
+      <wsdl:output message="tns:GetBooksSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthor">
+      <wsdl:input message="tns:GetRelationBookToAuthorSoapIn"/>
+      <wsdl:output message="tns:GetRelationBookToAuthorSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorPagination">
+      <wsdl:input message="tns:GetRelationBookToAuthorPaginationSoapIn"/>
+      <wsdl:output message="tns:GetRelationBookToAuthorPaginationSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthorCatalogPagination">
+      <wsdl:input message="tns:GetAuthorCatalogPaginationSoapIn"/>
+      <wsdl:output message="tns:GetAuthorCatalogPaginationSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublisehrCatalogPagination">
+      <wsdl:input message="tns:GetPublisehrCatalogPaginationSoapIn"/>
+      <wsdl:output message="tns:GetPublisehrCatalogPaginationSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthors">
+      <wsdl:input message="tns:GetAuthorsSoapIn"/>
+      <wsdl:output message="tns:GetAuthorsSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorBySearch">
+      <wsdl:input message="tns:GetRelationBookToAuthorBySearchSoapIn"/>
+      <wsdl:output message="tns:GetRelationBookToAuthorBySearchSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetIndexesByLucene">
+      <wsdl:input message="tns:GetIndexesByLuceneSoapIn"/>
+      <wsdl:output message="tns:GetIndexesByLuceneSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRelationBookToAuthor">
+      <wsdl:input message="tns:UpdateRelationBookToAuthorSoapIn"/>
+      <wsdl:output message="tns:UpdateRelationBookToAuthorSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetCatalogGrafbyBookId">
+      <wsdl:input message="tns:GetCatalogGrafbyBookIdSoapIn"/>
+      <wsdl:output message="tns:GetCatalogGrafbyBookIdSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetItems">
+      <wsdl:input message="tns:GetItemsSoapIn"/>
+      <wsdl:output message="tns:GetItemsSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetItemsByBooks">
+      <wsdl:input message="tns:GetItemsByBooksIn"/>
+      <wsdl:output message="tns:GetItemsByBooksOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelections">
+      <wsdl:input message="tns:GetReaderCartSelectionsIn"/>
+      <wsdl:output message="tns:GetReaderCartSelectionsOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelections">
+      <wsdl:input message="tns:SetReaderCartSelectionsIn"/>
+      <wsdl:output message="tns:SetReaderCartSelectionsOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelection">
+      <wsdl:input message="tns:SetReaderCartSelectionIn"/>
+      <wsdl:output message="tns:SetReaderCartSelectionOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetApprovedOrdersByReader">
+      <wsdl:input message="tns:GetApprovedOrdersByReaderIn"/>
+      <wsdl:output message="tns:GetApprovedOrdersByReaderOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveReaderCartSelection">
+      <wsdl:input message="tns:RemoveReaderCartSelectionIn"/>
+      <wsdl:output message="tns:RemoveReadercartSelectionOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderBy">
+      <wsdl:input message="tns:GetReaderBySoapIn"/>
+      <wsdl:output message="tns:GetReaderBySoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelectionByOrder">
+      <wsdl:input message="tns:GetReaderCartSelectionByOrderSoapIn"/>
+      <wsdl:output message="tns:GetReaderCartSelectionByOrderSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="SavePublisher">
+      <wsdl:input message="tns:SavePublisherSoapIn"/>
+      <wsdl:output message="tns:SavePublisherSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="OrderedReadingCartBy">
+      <wsdl:input message="tns:OrderedReadingCartIn"/>
+      <wsdl:output message="tns:OrderedReadingCartOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="SetOrderItemRecoveryDate">
+      <wsdl:input message="tns:SetOrderItemRecoveryIn"/>
+      <wsdl:output message="tns:SetOrderItemRecoveryOut"/>
+    </wsdl:operation>
+  </wsdl:portType> 
+  <wsdl:binding name="LibraryReportSoap" type="tns:LibraryReportSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="GetPublisherBy">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetPublisherBy"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublishers">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetPublishers"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaders">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetReaders"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReader">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetReader"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBooks">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetBooks"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthor">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetRelationBookToAuthor"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorPagination">
+      <soap:operation soapAction="http://tempuri.org/GetRelationBookToAuthorPagination" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthorCatalogPagination">
+      <soap:operation soapAction="http://tempuri.org/GetAuthorCatalogPagination" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublisehrCatalogPagination">
+      <soap:operation soapAction="http://tempuri.org/GetPublisehrCatalogPagination" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthors">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetAuthors"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorBySearch">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetRelationBookToAuthorBySearch"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIndexesByLucene">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetIndexesByLucene"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRelationBookToAuthor">
+      <soap:operation style="document" soapAction="http://tempuri.org/UpdateRelationBookToAuthor"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCatalogGrafbyBookId">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetCatalogGrafbyBookId"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetItems">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetItems"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetItemsByBooks">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetItemsByBooks"/>
+      <wsdl:input>
+        <soap:body use ="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelections">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetReaderCartSelections"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelections">
+      <soap:operation style="document" soapAction="http://tempuri.org/SetReaderCartSelections"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelection">
+      <soap:operation style="document" soapAction="http://tempuri.org/SetReaderCartSelection"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetOrderItemRecoveryDate">
+      <soap:operation style="document" soapAction="http://tempuri.org/SetOrderItemRecoveryDate"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetApprovedOrdersByReader">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetApprovedOrdersByReader"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveReaderCartSelection">
+      <soap:operation style="document" soapAction="http://tempuri.org/RemoveReaderCartSelection"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderBy">
+      <soap:operation soapAction="http://tempuri.org/GetReaderBy" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelectionByOrder">
+      <soap:operation soapAction="http://tempuri.org/GetReaderCartSelectionByOrder" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OrderedReadingCartBy">
+      <soap:operation style="document" soapAction="http://tempuri.org/OrderedReadingCartBy"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="LibraryReportSoap12" type="tns:LibraryReportSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="GetPublisherBy">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetPublisherBy"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublishers">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetPublishers"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaders">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetReaders"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReader">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetReader"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBooks">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetBooks"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthor">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetRelationBookToAuthor"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorPagination">
+      <soap12:operation soapAction="http://tempuri.org/GetRelationBookToAuthorPagination" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthorCatalogPagination">
+      <soap12:operation soapAction="http://tempuri.org/GetAuthorCatalogPagination" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPublisehrCatalogPagination">
+      <soap12:operation soapAction="http://tempuri.org/GetPublisehrCatalogPagination" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuthors">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetAuthors"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRelationBookToAuthorBySearch">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetRelationBookToAuthorBySearch"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIndexesByLucene">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetIndexesByLucene"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRelationBookToAuthor">
+      <soap12:operation style="document" soapAction="http://tempuri.org/UpdateRelationBookToAuthor"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCatalogGrafbyBookId">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetCatalogGrafbyBookId"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetItems">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetItems"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetItemsByBooks">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetItemsByBooks"/>
+      <wsdl:input>
+        <soap12:body use ="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelections">
+      <soap:operation style="document" soapAction="http://tempuri.org/GetReaderCartSelections"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelections">
+      <soap12:operation style="document" soapAction="http://tempuri.org/SetReaderCartSelections"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetReaderCartSelection">
+      <soap12:operation style="document" soapAction="http://tempuri.org/SetReaderCartSelection"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetOrderItemRecoveryDate">
+      <soap12:operation style="document" soapAction="http://tempuri.org/SetOrderItemRecoveryDate"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetApprovedOrdersByReader">
+      <soap12:operation style="document" soapAction="http://tempuri.org/GetApprovedOrdersByReader"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveReaderCartSelection">
+      <soap12:operation style="document" soapAction="http://tempuri.org/RemoveReaderCartSelection"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderBy">
+      <soap12:operation soapAction="http://tempuri.org/GetReaderBy" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReaderCartSelectionByOrder">
+      <soap12:operation soapAction="http://tempuri.org/GetReaderCartSelectionByOrder" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="OrderedReadingCartBy">
+      <soap12:operation style="document" soapAction="http://tempuri.org/OrderedReadingCartBy"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding> 
+  <wsdl:service name="LibraryReport">
+    <wsdl:port name="LibraryReportSoap" binding="tns:LibraryReportSoap">
+      <soap:address location="http://localhost:51737/LibraryReport.asmx"/>
+    </wsdl:port>
+    <wsdl:port name="LibraryReportSoap12" binding="tns:LibraryReportSoap12">
+      <soap12:address location="http://localhost:51737/LibraryReport.asmx"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

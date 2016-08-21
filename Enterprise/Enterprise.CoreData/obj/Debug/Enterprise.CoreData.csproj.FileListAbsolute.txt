@@ -1,0 +1,1558 @@
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+F:\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+F:\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+F:\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+F:\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+F:\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+F:\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+F:\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+F:\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+F:\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+F:\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+F:\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\150216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\160216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\170216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\180216home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Order.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\210216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\220216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\240216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\250216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\260216\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\040316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+F:\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+F:\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+F:\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+F:\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\060316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+D:\Repo\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+D:\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+D:\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+D:\Repo\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+D:\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ApprovedOrder.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Author.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Book.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Item.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Publisher.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\Reader.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReaderCartSelection.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\ReadingCart.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\BookToAuthor.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Mappings\InventoryItem.hbm.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll.config
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\NHibernate.Search.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\Ninject.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.CoreData\obj\Debug\Enterprise.CoreData.pdb

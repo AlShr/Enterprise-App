@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="Item" table="items" lazy="true">
+    <id name="ID" column="id" type="long" generator="native"/>
+    <property name="IsOrdered" type="bool" column="is_ordered"/>
+    <property name="IsReadCarted" type="bool" column="is_readcarted"/>
+    <property name="InventorySerialCode" type="string" column="inventory_serialcode"/>
+    <property name="RecoveredDate" column="recovereddate"/>
+    <property name="PlanedRecoveringDate" column="planedrecoveringdate"/>
+    <many-to-one name="ApprovedOrder"  lazy="no-proxy" column="approvedorder_id"/>
+    <many-to-one name="ItemDescription" not-null="true" lazy="no-proxy" column="book_id"/>
+    <one-to-one name="ReaderCartSelection" class="ReaderCartSelection" property-ref="Item" cascade="all-delete-orphan"/>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="ReadingCart" table="readercart" lazy="true">
+    <id name="ID" column="id" generator="native" type="long"/>
+    <property name="CartNumber" column="cart_number" type="string" not-null="true"/>    
+    <bag name="CartSelections" inverse="true">
+      <key column="readingcart_id"></key>
+      <one-to-many class="ReaderCartSelection"/>
+    </bag>
+    <many-to-one name="CartOfReader" class="Reader" column="reader_id" unique="true" not-null="true" cascade="save-update"/>
+  </class>
+</hibernate-mapping>

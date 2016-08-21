@@ -1,0 +1,109 @@
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\CastleComponents.config
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll.config
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Web.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Castle.Core.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Castle.Windsor.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Core.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Data.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\ProjectBase.Data.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\NHibernate.Search.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\NHibernate.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Lucene.Net.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Iesi.Collections.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Castle.Core.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Castle.Windsor.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Core.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Enterprise.Data.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\NHibernate.Search.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\NHibernate.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Lucene.Net.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Lucene.Net.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\bin\Iesi.Collections.xml
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.dll
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.pdb
+C:\Users\alena\Desktop\290116\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\CastleComponents.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Web.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Castle.Core.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Castle.Windsor.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Core.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Data.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\ProjectBase.Data.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\NHibernate.Search.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\NHibernate.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Lucene.Net.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Iesi.Collections.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Castle.Core.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Castle.Windsor.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Core.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Enterprise.Data.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\ProjectBase.Data.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\NHibernate.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Lucene.Net.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Lucene.Net.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\bin\Iesi.Collections.xml
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\CastleComponents.config
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Web.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Castle.Core.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Castle.Windsor.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Core.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Data.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Lucene.Net.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\NHibernate.Search.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\NHibernate.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Iesi.Collections.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Castle.Core.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Castle.Windsor.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Core.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Enterprise.Data.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Lucene.Net.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Lucene.Net.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\NHibernate.Search.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\NHibernate.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\bin\Iesi.Collections.xml
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\CastleComponents.config
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Enterprise.Web.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Enterprise.Web.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Ninject.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Lucene.Net.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\NHibernate.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Iesi.Collections.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Ninject.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Lucene.Net.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Lucene.Net.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\NHibernate.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\bin\Iesi.Collections.xml
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\Enterprise.Web\obj\x64\Debug\Enterprise.Web.pdb

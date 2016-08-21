@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping assembly="Enterprise.CoreData" namespace="Enterprise.CoreData.Domain" 
+                   xmlns="urn:nhibernate-mapping-2.2">
+  <class name="BookToAuthor" table="books_to_authors" lazy="true" >
+    <id name="ID" column="id" type="long" generator="native"/>
+    <property name="PosAuthorList" column="pos_authorlist" type="int" not-null="false"/>
+    <many-to-one name="Book">
+      <column name="book_id" sql-type="NUMBER" not-null="false" />
+    </many-to-one>
+    <many-to-one name="Author">
+      <column name="author_id" sql-type="NUMBER" not-null="false" />
+    </many-to-one>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="readercart" targetNamespace="http://tempuri.org/readercart.xsd" xmlns:mstns="http://tempuri.org/readercart.xsd" xmlns="http://tempuri.org/readercart.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.DXLibraryClient.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OracleClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="readercart" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="readercart" msprop:Generator_UserDSName="readercart">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="READERCART" msprop:Generator_TableClassName="READERCARTDataTable" msprop:Generator_TableVarName="tableREADERCART" msprop:Generator_TablePropName="READERCART" msprop:Generator_RowDeletingName="READERCARTRowDeleting" msprop:Generator_RowChangingName="READERCARTRowChanging" msprop:Generator_RowEvHandlerName="READERCARTRowChangeEventHandler" msprop:Generator_RowDeletedName="READERCARTRowDeleted" msprop:Generator_UserTableName="READERCART" msprop:Generator_RowChangedName="READERCARTRowChanged" msprop:Generator_RowEvArgName="READERCARTRowChangeEvent" msprop:Generator_RowClassName="READERCARTRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:decimal" />
+              <xs:element name="CART_NUMBER" msprop:Generator_ColumnVarNameInTable="columnCART_NUMBER" msprop:Generator_ColumnPropNameInRow="CART_NUMBER" msprop:Generator_ColumnPropNameInTable="CART_NUMBERColumn" msprop:Generator_UserColumnName="CART_NUMBER">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="READER_ID" msprop:Generator_ColumnVarNameInTable="columnREADER_ID" msprop:Generator_ColumnPropNameInRow="READER_ID" msprop:Generator_ColumnPropNameInTable="READER_IDColumn" msprop:Generator_UserColumnName="READER_ID" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="READERCARTSELECTIONS" msprop:Generator_TableClassName="READERCARTSELECTIONSDataTable" msprop:Generator_TableVarName="tableREADERCARTSELECTIONS" msprop:Generator_TablePropName="READERCARTSELECTIONS" msprop:Generator_RowDeletingName="READERCARTSELECTIONSRowDeleting" msprop:Generator_RowChangingName="READERCARTSELECTIONSRowChanging" msprop:Generator_RowEvHandlerName="READERCARTSELECTIONSRowChangeEventHandler" msprop:Generator_RowDeletedName="READERCARTSELECTIONSRowDeleted" msprop:Generator_UserTableName="READERCARTSELECTIONS" msprop:Generator_RowChangedName="READERCARTSELECTIONSRowChanged" msprop:Generator_RowEvArgName="READERCARTSELECTIONSRowChangeEvent" msprop:Generator_RowClassName="READERCARTSELECTIONSRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BOOK_ID" msprop:Generator_ColumnVarNameInTable="columnBOOK_ID" msprop:Generator_ColumnPropNameInRow="BOOK_ID" msprop:Generator_ColumnPropNameInTable="BOOK_IDColumn" msprop:Generator_UserColumnName="BOOK_ID" type="xs:decimal" />
+              <xs:element name="READINGCART_ID" msprop:Generator_ColumnVarNameInTable="columnREADINGCART_ID" msprop:Generator_ColumnPropNameInRow="READINGCART_ID" msprop:Generator_ColumnPropNameInTable="READINGCART_IDColumn" msprop:Generator_UserColumnName="READINGCART_ID" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:READERCART" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+    <xs:unique name="READERCARTSELECTIONS_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:READERCARTSELECTIONS" />
+      <xs:field xpath="mstns:BOOK_ID" />
+      <xs:field xpath="mstns:READINGCART_ID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FKE20FD32779C6F2FE" msdata:parent="READERCART" msdata:child="READERCARTSELECTIONS" msdata:parentkey="ID" msdata:childkey="READINGCART_ID" msprop:Generator_UserChildTable="READERCARTSELECTIONS" msprop:Generator_ChildPropName="GetREADERCARTSELECTIONSRows" msprop:Generator_UserRelationName="FKE20FD32779C6F2FE" msprop:Generator_ParentPropName="READERCARTRow" msprop:Generator_RelationVarName="relationFKE20FD32779C6F2FE" msprop:Generator_UserParentTable="READERCART" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

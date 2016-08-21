@@ -1,0 +1,251 @@
+C:\Users\alena\Desktop\290116\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290116\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290116\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290116\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Documents\Visual Studio 2013\Projects\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+F:\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+F:\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+F:\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+F:\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - Copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - Copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise - isd copy - Copy\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+F:\080216\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+F:\080216\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+F:\080216\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+F:\080216\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+F:\080216\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\080216\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\120216 — копия — inheritance\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\150216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\150216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\150216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\150216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\170216home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\170216home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\170216home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\180216home — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\180216home — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\210216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\210216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\210216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\210216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\220216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\220216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\220216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\220216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\220216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\240216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\240216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\240216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\240216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\240216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\240216 home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\240216 home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\240216 home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\250216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\250216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\250216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\260216 — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\010316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\010316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\020316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\020316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\030316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\030316 isd\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\030216 home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\030216 home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\040316home\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+F:\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+F:\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+F:\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+F:\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+F:\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+F:\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+F:\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\040316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\060316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\100316last v\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+D:\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+D:\Repo\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+D:\Repo\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+D:\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\150316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.csprojResolveAssemblyReference.cache
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+D:\170316 isd\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\ProjectBase.Utils\obj\Debug\ProjectBase.Utils.pdb

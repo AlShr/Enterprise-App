@@ -1,0 +1,4 @@
+D:\Repo\Enterprise\ProjectBase.Utils\bin\x64\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\ProjectBase.Utils\bin\x64\Debug\ProjectBase.Utils.pdb
+D:\Repo\Enterprise\ProjectBase.Utils\obj\x64\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\ProjectBase.Utils\obj\x64\Debug\ProjectBase.Utils.pdb

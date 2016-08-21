@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Naskar.QueryOverSpec</id>
+    <version>0.0.2</version>
+    <title>QueryOver Specification</title>
+    <authors>rafaeluchoa</authors>
+    <owners>rafaeluchoa</owners>
+    <licenseUrl>http://queryoverspec.codeplex.com/license</licenseUrl>
+    <projectUrl>http://queryoverspec.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A simple implementation of the Specification Pattern using NHibernate QueryOver.
+
+Licensed under LGPL.</description>
+    <copyright>Naskar</copyright>
+    <language />
+    <dependencies>
+      <dependency id="NHibernate" version="3.3.1.4000" />
+    </dependencies>
+  </metadata>
+</package>

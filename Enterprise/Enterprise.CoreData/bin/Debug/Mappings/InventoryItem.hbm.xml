@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="InventoryItem" table="inventoryitems" lazy="true">
+    <id name="ID" column="id" type="long" generator="native"/>
+    <property name="IsOrdered" type="bool" column="is_ordered"/>
+    <property name="IsReadCarted" type="bool" column="is_readcarted"/>
+    <property name="InventoryCode" type="string" column="inventory_code"/>
+    <many-to-one name="BookItem" not-null="true" lazy="no-proxy" column="book_id"/>
+  </class>
+</hibernate-mapping>

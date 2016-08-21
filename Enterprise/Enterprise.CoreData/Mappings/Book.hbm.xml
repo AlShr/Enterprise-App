@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="Book" table="books" lazy="true">
+    <id name="ID"  column="id" type="long" generator="native"/>
+    <property name="Description" column="description" length="50" type="string" not-null="true"/>
+    <property name="ISBN" column="isbn" length="50" type="string" not-null="true"/>
+    <property name="PenaltyPrice" column="penalty_price" not-null="true"/>
+    <many-to-one name="Publisher" not-null="true" lazy="no-proxy" column="publisher_id"/>    
+    <bag name="CartSelectionWithBook" inverse="true">
+      <key column="book_id"></key>
+      <one-to-many class="ReaderCartSelection"/>
+    </bag>
+    <bag name="Authors" inverse="true" table="books_to_authors" cascade="delete">
+      <key column="book_id" />
+      <one-to-many class="BookToAuthor" />
+    </bag>
+  </class>
+</hibernate-mapping>

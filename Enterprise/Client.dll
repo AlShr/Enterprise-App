@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="LibraryReportSoap" openTimeout="00:10:00" sendTimeout="00:05:00"
+                    maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <readerQuotas maxDepth="32" maxStringContentLength="1000000"
+                        maxArrayLength="2147483647" maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+                </binding>
+            </basicHttpBinding>
+            <customBinding>
+                <binding name="LibraryReportSoap12" sendTimeout="00:05:00">
+                    <textMessageEncoding messageVersion="Soap12" />
+                    <httpTransport />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost/Enterprise.Web/LibraryReport.asmx"
+                binding="basicHttpBinding" bindingConfiguration="LibraryReportSoap"
+                contract="LibraryReportSoap" name="LibraryReportSoap" />
+            <endpoint address="http://localhost/Enterprise.Web/LibraryReport.asmx"
+                binding="customBinding" bindingConfiguration="LibraryReportSoap12"
+                contract="LibraryReportSoap" name="LibraryReportSoap12" />
+        </client>
+    </system.serviceModel>
+</configuration>

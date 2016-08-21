@@ -1,0 +1,27 @@
+D:\Repo\Enterprise\TestUI\bin\Debug\TestUI.dll
+D:\Repo\Enterprise\TestUI\bin\Debug\TestUI.pdb
+D:\Repo\Enterprise\TestUI\bin\Debug\nunit.framework.dll
+D:\Repo\Enterprise\TestUI\bin\Debug\nunit.framework.xml
+D:\Repo\Enterprise\TestUI\obj\Debug\TestUI.dll
+D:\Repo\Enterprise\TestUI\obj\Debug\TestUI.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\bin\Debug\TestUI.dll
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\bin\Debug\TestUI.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\bin\Debug\nunit.framework.dll
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\bin\Debug\nunit.framework.xml
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\obj\Debug\TestUI.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\obj\Debug\TestUI.dll
+C:\Users\oshr\Desktop\150316\Enterprise\TestUI\obj\Debug\TestUI.pdb
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\bin\Debug\TestUI.dll
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\bin\Debug\TestUI.pdb
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\bin\Debug\nunit.framework.dll
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\bin\Debug\nunit.framework.xml
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\obj\Debug\TestUI.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\obj\Debug\TestUI.dll
+C:\Users\alena\Desktop\160316\Enterprise\TestUI\obj\Debug\TestUI.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\bin\Debug\TestUI.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\bin\Debug\TestUI.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\bin\Debug\nunit.framework.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\bin\Debug\nunit.framework.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\obj\Debug\TestUI.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\obj\Debug\TestUI.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\TestUI\obj\Debug\TestUI.pdb

@@ -1,0 +1,92 @@
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.exe.config
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\hibernate.cfg.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.exe
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.CoreData.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Ninject.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\NHibernate.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.CoreData.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Ninject.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\NHibernate.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Properties.Resources.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.DialogEditorForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.BookReportViewForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ChildForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.InventoryForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ItemCollectionForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.MainForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ReaderCartForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.RibbonForm1.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.BookCollectionForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.SearchLookUpEditorForm.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.SimpleXtraReport.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ucValidation.resources
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.csproj.GenerateResource.Cache
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.exe.licenses
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.exe
+C:\Users\alena\Desktop\290216 isd\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.exe.config
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.exe
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\hibernate.cfg.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.exe
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\DXLibraryClient.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Services.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LibraryClient.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Ninject.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\nunit.framework.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.CoreData.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\log4net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.Services.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LibraryClient.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\LightInject.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Lucene.Net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Ninject.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\nunit.framework.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Enterprise.CoreData.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\log4net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\bin\x86\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Properties.Resources.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.AvaliableBookView.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.DialogEditorForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ChildForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.OverdueRecoverOrderView.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.InventoryForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ReaderCartForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.ReportPreviewForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.Views.SearchLookUpEditorForm.resources
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.csproj.GenerateResource.Cache
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\DXApplication1\DXLibraryClient\obj\x86\Debug\DXLibraryClient.exe.licenses

@@ -1,0 +1,261 @@
+c\Windows\system32\config\systemprofile\Lucene.dir
+BookToAuthor
+____________
+	|------	Book
+	|	|-------Publisher	
+	|	
+        |------ Author 
+
+
+Publisher lookUp
+Book lookUp
+Author lookUp
+  
+private async Task InitCatalogData(int pageNumber, int pageSize)
+{
+     bookToauthor = await service.GetRelationsBookToAuthor(pageNumber, pageSize);
+     CatalogDataBinding(bookToauthor);
+}
+
+
+cancel////////////
+IList<PublisherModel> publishers = await service.GetCatalogPublishers();
+IList<BookModel> books = await service.GetCatalogBooks();
+IList<AuthorModel> authors = await service.GetCatalogAuthors();
+
+///////////////////
+
+
+private async Task InitLookUpData()
+{
+///////////cancel
+            IList<PublisherModel> publishers = await service.GetCatalogPublishers();
+            IList<BookModel> books = await service.GetCatalogBooks();
+            IList<AuthorModel> authors = await service.GetCatalogAuthors();
+////////////
+            this.view.InitServiceDataSearchLookUp(publishers, books, authors);
+}
+Reader lookUp
+
+ private async Task InitUserLookUpData()
+ {
+      view.ReaderCatalog = await service.GetCatalogReaders();
+      view.BindServiceDataLookUpEditUserData();
+}
+
+
+
+IDictionary<BookModel,List<AuthorModel>> bookAuthDictionary = service.InitBookAuthorDetail(bookToauthor);
+view.BookCatalog = bookAuthDictionary.Keys.ToList();
+IDictionary<PublisherModel, List<BookModel>> publisherDictionary = service.InitPublisherBookDetail(bookToauthor);
+view.PublisherCatalog = publisherDictionary.Keys.ToList();
+
+
+
+
+>	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.InitViewCatalogData(int pageNumber, int pageSize) Line 269	C#
+ 	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.ChildPresenter(LibraryClient.Common.IApplicationController controller, LibraryClient.Views.IChildView view, Enterprise.Overspesification.Services.ICatalogServiceObject service, Enterprise.Overspesification.Services.IReaderCartServiceObject readerservice) Line 60	C#
+ 	[Lightweight Function]	
+ 	LightInject.dll!LightInject.ServiceContainer.GetInstance(System.Type serviceType) Line 2396	C#
+ 	LightInject.dll!LightInject.ServiceContainer.GetInstance<LibraryClient.Presenter.ChildPresenter>() Line 2446	C#
+ 	DXLibraryClient.exe!DXLibraryClient.LigthInjectAdapter.Resolve<LibraryClient.Presenter.ChildPresenter>() Line 40	C#
+ 	LibraryClient.dll!LibraryClient.Common.ApplicationController.Run<LibraryClient.Presenter.ChildPresenter>() Line 41	C#
+ 	DXLibraryClient.exe!DXLibraryClient.Program.Main() Line 50	C#
+ 	[Native to Managed Transition]	
+ 	mscorlib.dll!System.AppDomain.ExecuteAssembly(string assemblyFile, System.Security.Policy.Evidence assemblySecurity, string[] args)	Unknown
+ 	Microsoft.VisualStudio.HostingProcess.Utilities.dll!Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()	Unknown
+ 	mscorlib.dll!System.Threading.ThreadHelper.ThreadStart_Context(object state)	Unknown
+ 	mscorlib.dll!System.Threading.ExecutionContext.RunInternal(System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, object state, bool preserveSyncCtx)	Unknown
+ 	mscorlib.dll!System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, object state, bool preserveSyncCtx)	Unknown
+ 	mscorlib.dll!System.Threading.ExecutionContext.Run(System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, object state)	Unknown
+ 	mscorlib.dll!System.Threading.ThreadHelper.ThreadStart()	Unknown
+
+
+
+
+
+
+BookToAuthor
+
+//public IDictionary<BookModel, List<AuthorModel>> InitBookAuthorDetail(IList<BookToAuthorModel> bookToauthor)
+        //{
+        //    if (bookToauthor != null)
+        //    {
+        //        foreach (var relation in bookToauthor)
+        //        {
+        //            BookModel book = relation.Book;
+        //            AuthorModel author = relation.Author;
+        //            author.PosAuthList = relation.PosAuthorList;
+        //            AddToBookCatalog(book, author);
+        //        }
+        //    }
+        //    return bookcatalog;
+        //}
+
+
+//public void AddToBookCatalog(BookModel book, AuthorModel author)
+        //{
+        //    if (!bookcatalog.ContainsKey(book))
+        //    {
+        //        List<AuthorModel> authors = new List<AuthorModel>();
+        //        bookcatalog.Add(book, authors);
+        //    }
+        //    bookcatalog[book].Add(author);
+        //}
+
+otherwise
+
+ public IDictionary<BookModel, List<AuthorModel>> BookAuthorsParse(IEnumerable<BookToAuthorModel> bookToauthors)
+        {
+            if (bookToauthors != null)
+            {
+                bookcatalog = new Dictionary<BookModel, List<AuthorModel>>();
+                foreach (var relation in bookToauthors)
+                {
+                    BookModel book = relation.Book;
+                    AuthorModel author = relation.Author;
+                    author.PosAuthList = relation.PosAuthorList;
+                    if (book != null)
+                    {
+                        if (!bookcatalog.ContainsKey(book))
+                        {
+                            List<AuthorModel> authors = new List<AuthorModel>();
+                            bookcatalog.Add(book, authors);
+                        }
+                        bookcatalog[book].Add(author);
+                    }
+                }
+            }            
+            return bookcatalog;
+        }
+
+
+
+PublisherBook
+ 
+ //public IDictionary<PublisherModel, List<BookModel>> InitPublisherBookDetail(IList<BookToAuthorModel> bookToAuthor)
+        //{
+        //    if (bookToAuthor != null)
+        //    {
+        //        foreach (var relation in bookToAuthor)
+        //        {
+        //            BookModel book = relation.Book;
+        //            PublisherModel publisher = book.Publisher;
+        //            AddToPublisherCatalog(publisher, book);
+        //        }
+        //    }
+        //    return publishercatalog;
+        //}
+
+ //public void AddToPublisherCatalog(PublisherModel publisher, BookModel book)
+        //{
+        //    if (publisher != null)
+        //    {
+        //        List<BookModel> books;
+        //        if (!publishercatalog.ContainsKey(publisher))
+        //        {
+        //            books = new List<BookModel>();
+        //            publishercatalog.Add(publisher, books);
+        //        }
+        //        publishercatalog[publisher].Sort();
+        //        if (publishercatalog[publisher].BinarySearch(book) < 0)
+        //        {
+        //            publishercatalog[publisher].Add(book);
+        //        }
+        //    }
+        //}
+//private List<PublisherModel> InitPublisherCatalog(
+        //    List<PublisherModel> publishers, 
+        //    IDictionary<PublisherModel,List<BookModel>> publishercatalog,
+        //    IDictionary<BookModel, List<AuthorModel>> bookcatalog)
+        //{
+        //    Check.Require(publishers != null, "publishers must be provided");
+        //    Check.Require(bookcatalog != null, "bookcatalog must be provided");
+        //    Check.Require(publishercatalog != null, "publishercatalog must be provided");
+        //    foreach (var publisher in publishercatalog.Keys)
+        //    {
+        //        IList<BookModel> pubbooks = publishercatalog[publisher];
+        //        IList<BookModel> pubbookwitauthor = InitBookCatalog(pubbooks, bookcatalog);
+        //        publisher.Books.AddRange(pubbookwitauthor);
+        //        publishers.Add(publisher);
+        //    }
+        //    return publishers;
+        //}
+
+      
+otherwise 
+
+
+
+//public List<PublisherModel> CatalogData(IList<BookToAuthorModel> bookToauthor)
+        //{
+
+
+        //    bookcatalog.Clear();
+        //    publishercatalog.Clear();
+        //    bookcatalog = InitBookAuthorDetail(bookToauthor);
+
+        //    publishercatalog = InitPublisherBookDetail(bookToauthor);
+
+        //    List<PublisherModel> publisherModel = new List<PublisherModel>();
+        //    if (bookcatalog != null && publishercatalog != null)
+        //    {
+        //        publisherModel = InitPublisherCatalog(publisherModel, publishercatalog, bookcatalog);
+
+        //    }
+        //    return publisherModel;
+        //}
+
+
+
+otherwise
+
+ public void LibraryParser(IEnumerable<BookToAuthorModel> bookToAuthors)
+        {
+            BookAuthorsParse(bookToAuthors);
+            PublisherBooksParse(bookToAuthors);
+            publisherModel = new List<PublisherModel>();
+            if (bookcatalog != null && publishercatalog != null)
+            {
+                PublishesrParse(publisherModel, publishercatalog, bookcatalog);
+            }
+            AuthorParse(bookToAuthors);
+
+        }
+
+
+>	Enterprise.Services.dll!Enterprise.Services.Common.LibraryDataParser.PublisherBooksParse(System.Collections.Generic.IEnumerable<Enterprise.Model.BookToAuthorModel> bookToauthors) Line 63	C#
+ 	Enterprise.Services.dll!Enterprise.Services.Common.LibraryDataParser.LibraryParser(System.Collections.Generic.IEnumerable<Enterprise.Model.BookToAuthorModel> bookToAuthors) Line 99	C#
+ 	Enterprise.Services.dll!Enterprise.Services.Common.CatalogServiceObject.CatalogData(System.Collections.Generic.IList<Enterprise.Model.BookToAuthorModel> bookToauthor) Line 331	C#
+ 	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.CatalogDataBinding(System.Collections.Generic.IList<Enterprise.Model.BookToAuthorModel> bookToauthor) Line 319	C#
+ 	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.InitCatalogData(int pageNumber, int pageSize) Line 312	C#
+ 	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.InitViewCatalogData(int pageNumber, int pageSize) Line 269	C#
+ 	LibraryClient.dll!LibraryClient.Presenter.ChildPresenter.ChildPresenter(LibraryClient.Common.IApplicationController controller, LibraryClient.Views.IChildView view, Enterprise.Overspesification.Services.ICatalogServiceObject service, Enterprise.Overspesification.Services.IReaderCartServiceObject readerservice) Line 60	C#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

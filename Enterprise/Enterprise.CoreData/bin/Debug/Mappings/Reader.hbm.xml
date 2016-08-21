@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="Reader" table="reader" lazy="true">
+    <id name="ID" column="reader_id" generator="native" type="long"/>
+    <component class="Email" name="EmailIdentity">
+      <property name="EmailAddress" column="email_address" not-null="true"/>
+    </component>
+    <list name="ReaderApprovedOrders" inverse="true" lazy="true" cascade="all-delete-orphan">
+      <key column="reader_id"/>
+      <index column="position"/>
+      <one-to-many class="ApprovedOrder"/>
+    </list>
+    <one-to-one name="ReaderCart" class="ReadingCart" property-ref="CartOfReader" cascade="save-update"/>
+  </class>
+</hibernate-mapping>

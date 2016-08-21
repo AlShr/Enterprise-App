@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="ReaderCartSelection" table="readercartselections">
+    <id name="ID" column="id" type="long" generator="native"/>
+    <many-to-one name="CurrentBook">
+      <column name="book_id" sql-type="NUMBER" not-null="false"/>
+    </many-to-one>
+    <many-to-one name="ParentCart">
+      <column name="readingcart_id" sql-type="NUMBER" not-null="false"/>
+    </many-to-one>
+    <many-to-one name="Item" class="Item" column="item_id" unique="true" not-null="true" cascade="all-delete-orphan"/>
+  </class>
+</hibernate-mapping>

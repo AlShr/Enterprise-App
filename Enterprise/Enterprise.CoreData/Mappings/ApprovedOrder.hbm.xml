@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="Enterprise.CoreData"
+                   namespace="Enterprise.CoreData.Domain">
+  <class name="ApprovedOrder" table="approvedorders" lazy="true">
+    <id name="ID" column="id" type="long" generator="native"/>
+    <property name="ApprovedNumber" type="string" column="approvednumber"/>
+    <property name="OrderedDate" column="ordereddate"/>
+    <property name="RecoveredDate" column="recovereddate"/>
+    <bag name="OrderItems" inverse="true" lazy="true" cascade="all-delete-orphan">
+      <key column="approvedorder_id"/>
+      <one-to-many class="Item"/>
+    </bag>
+    <many-to-one name="ApprovedByReader" not-null="true" lazy="no-proxy" column="reader_id"/>
+  </class>
+</hibernate-mapping>

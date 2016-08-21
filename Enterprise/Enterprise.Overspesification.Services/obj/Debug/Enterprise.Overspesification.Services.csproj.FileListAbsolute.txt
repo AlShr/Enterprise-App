@@ -1,0 +1,170 @@
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\070316last commit\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\090316last commit — копия\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\lastver\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+D:\Repo\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\150316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\oshr\Desktop\160316home\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Overspesification.Services.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Enterprise.Model.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Data.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\ProjectBase.Utils.pdb
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\NHibernate.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\log4net.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.dll
+C:\Users\alena\Desktop\170316 isd\160316\Enterprise\Enterprise.Overspesification.Services\obj\Debug\Enterprise.Overspesification.Services.pdb

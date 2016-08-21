@@ -1,0 +1,762 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="MultiSelect">false</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="CardVertInterval">2</property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="DetailHeight">350</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="Items" iskey="true" value="20">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ParentName" />
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="ExpandButtonLocation">AfterText</property>
+      <property name="TextLocation">Default</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewTemplateCard</property>
+      <property name="ExpandButtonVisible">false</property>
+      <property name="CustomizationFormText">layoutViewTemplateCard</property>
+      <property name="Text">TemplateCard</property>
+      <property name="Size">@3,Width=202@3,Height=273</property>
+      <property name="TypeName">LayoutViewCard</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="GroupBordersVisible">false</property>
+      <property name="TabbedGroupParentName" />
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="MinSize">@2,Width=88@2,Height=29</property>
+      <property name="MaxSize">@2,Width=88@2,Height=80</property>
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="SizeConstraintsType">Custom</property>
+      <property name="Name">layoutViewField_colPhoto1</property>
+      <property name="Size">@2,Width=88@2,Height=79</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="TextVisible">false</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TextSize">@1,Width=0@1,Height=0</property>
+      <property name="EditorPreferredWidth">81</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colPhoto</property>
+      <property name="Text">Photo:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Photo</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Size">@3,Width=202@3,Height=118</property>
+      <property name="Location">@1,X=0@2,Y=79</property>
+      <property name="Text">Contact Info</property>
+      <property name="Name">item4</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="TextLocation">Default</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="TypeName">LayoutGroup</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TabbedGroupParentName" />
+      <property name="CustomizationFormText">Contact Info</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colCountry1</property>
+      <property name="Size">@3,Width=194@2,Height=23</property>
+      <property name="Location">@1,X=0@2,Y=69</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item4</property>
+      <property name="TextSize">@2,Width=43@2,Height=20</property>
+      <property name="EditorPreferredWidth">139</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colCountry</property>
+      <property name="Text">Country:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Country</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colAddress1</property>
+      <property name="Size">@3,Width=194@2,Height=23</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item4</property>
+      <property name="TextSize">@2,Width=43@2,Height=20</property>
+      <property name="EditorPreferredWidth">139</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colAddress</property>
+      <property name="Text">Address:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Address</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colCity1</property>
+      <property name="Size">@3,Width=194@2,Height=23</property>
+      <property name="Location">@1,X=0@2,Y=23</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item4</property>
+      <property name="TextSize">@2,Width=23@2,Height=20</property>
+      <property name="EditorPreferredWidth">159</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colCity</property>
+      <property name="Text">City:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">City</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colPostalCode1</property>
+      <property name="Size">@2,Width=98@2,Height=23</property>
+      <property name="Location">@1,X=0@2,Y=46</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item4</property>
+      <property name="TextSize">@2,Width=61@2,Height=20</property>
+      <property name="EditorPreferredWidth">25</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colPostalCode</property>
+      <property name="Text">Postal Code:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Postal Code</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colRegion1</property>
+      <property name="Size">@2,Width=96@2,Height=23</property>
+      <property name="Location">@2,X=98@2,Y=46</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item4</property>
+      <property name="TextSize">@2,Width=37@2,Height=20</property>
+      <property name="EditorPreferredWidth">47</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colRegion</property>
+      <property name="Text">Region:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Region</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colTitle1</property>
+      <property name="Size">@3,Width=114@2,Height=23</property>
+      <property name="Location">@2,X=88@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextSize">@2,Width=24@2,Height=20</property>
+      <property name="EditorPreferredWidth">78</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colTitle</property>
+      <property name="Text">Title:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Title</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colFirstName1</property>
+      <property name="Size">@3,Width=114@2,Height=23</property>
+      <property name="Location">@2,X=88@2,Y=23</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextSize">@2,Width=55@2,Height=20</property>
+      <property name="EditorPreferredWidth">47</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colFirstName</property>
+      <property name="Text">First Name:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText"> First Name</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colLastName1</property>
+      <property name="Size">@3,Width=114@2,Height=23</property>
+      <property name="Location">@2,X=88@2,Y=46</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextSize">@2,Width=54@2,Height=20</property>
+      <property name="EditorPreferredWidth">48</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colLastName</property>
+      <property name="Text">Last Name:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Last Name</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Text">LayoutItem13</property>
+      <property name="CustomizationFormText">LayoutItem13</property>
+      <property name="Size">@3,Width=114@2,Height=10</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextSize">@1,Width=0@1,Height=0</property>
+      <property name="Name">LayoutItem11</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Location">@2,X=88@2,Y=69</property>
+      <property name="TextLocation">Default</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TypeName">EmptySpaceItem</property>
+      <property name="ControlName" isnull="true" />
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Text">item1</property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="Name">item1</property>
+      <property name="Size">@3,Width=202@2,Height=76</property>
+      <property name="Location">@1,X=0@3,Y=197</property>
+      <property name="SelectedTabPageName">item2</property>
+      <property name="TypeName">TabbedGroup</property>
+      <property name="CustomizationFormText">item1</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Size">@3,Width=181@2,Height=33</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="Text">Notes</property>
+      <property name="Name">item2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="TypeName">LayoutGroup</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TabbedGroupParentName">item1</property>
+      <property name="CustomizationFormText">Notes</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colNotes1</property>
+      <property name="Size">@3,Width=181@2,Height=33</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="TextVisible">false</property>
+      <property name="ParentName">item2</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TextSize">@1,Width=0@1,Height=0</property>
+      <property name="EditorPreferredWidth">174</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colNotes</property>
+      <property name="Text">Notes:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Notes</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Size">@3,Width=181@2,Height=33</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="Text">Other</property>
+      <property name="Name">item3</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="ParentName">layoutViewTemplateCard</property>
+      <property name="OptionsItemText" isnull="true" iskey="true">
+        <property name="TextAlignMode">UseParentOptions</property>
+        <property name="TextToControlDistance">5</property>
+      </property>
+      <property name="TypeName">LayoutGroup</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TabbedGroupParentName">item1</property>
+      <property name="CustomizationFormText">Other</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colHomePhone1</property>
+      <property name="Size">@3,Width=181@2,Height=23</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">item3</property>
+      <property name="TextSize">@2,Width=64@2,Height=20</property>
+      <property name="EditorPreferredWidth">105</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colHomePhone</property>
+      <property name="Text">Home Phone:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">Home Phone</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Text">LayoutItem17</property>
+      <property name="CustomizationFormText">item4</property>
+      <property name="Size">@3,Width=181@2,Height=10</property>
+      <property name="ParentName">item3</property>
+      <property name="TextSize">@1,Width=0@1,Height=0</property>
+      <property name="Name">LayoutItem17</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Location">@1,X=0@2,Y=23</property>
+      <property name="TextLocation">Default</property>
+      <property name="TextToControlDistance">0</property>
+      <property name="TypeName">EmptySpaceItem</property>
+      <property name="ControlName" isnull="true" />
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colReportsTo1</property>
+      <property name="Size">@3,Width=228@3,Height=302</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">Customization</property>
+      <property name="TextSize">@2,Width=76@2,Height=20</property>
+      <property name="EditorPreferredWidth">10</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colReportsTo</property>
+      <property name="Text">ReportsTo:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">ReportsTo</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Spacing">2, 2, 2, 2</property>
+      <property name="OptionsToolTip" isnull="true" iskey="true">
+        <property name="IconToolTip" />
+        <property name="IconToolTipTitle" />
+        <property name="IconToolTipIconType">None</property>
+        <property name="ToolTip" />
+        <property name="ToolTipTitle" />
+        <property name="ToolTipIconType">None</property>
+      </property>
+      <property name="Name">layoutViewField_colTitleOfCourtesy1</property>
+      <property name="Size">@3,Width=228@3,Height=302</property>
+      <property name="Location">@1,X=0@1,Y=0</property>
+      <property name="TextLocation">Left</property>
+      <property name="Padding">1, 1, 1, 1</property>
+      <property name="ParentName">Customization</property>
+      <property name="TextSize">@2,Width=76@2,Height=20</property>
+      <property name="EditorPreferredWidth">10</property>
+      <property name="ShowInCustomizationForm">true</property>
+      <property name="ColumnName">colTitleOfCourtesy</property>
+      <property name="Text">TitleOfCourtesy:</property>
+      <property name="ControlName" isnull="true" />
+      <property name="CustomizationFormText">TitleOfCourtesy</property>
+      <property name="TypeName">LayoutViewField</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="Card" iskey="true" value="Card">
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="VAlignment">Center</property>
+      </property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseTextOptions">true</property>
+      </property>
+    </property>
+    <property name="FieldCaption" iskey="true" value="FieldCaption">
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="VAlignment">Center</property>
+      </property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseTextOptions">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="CardHorzInterval">2</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowCardExpandButton">false</property>
+    <property name="ShowHeaderPanel">false</property>
+    <property name="ShowCardLines">false</property>
+    <property name="ShowCardBorderIfCaptionHidden">false</property>
+    <property name="ShowCardCaption">false</property>
+  </property>
+  <property name="OptionsMultiRecordMode" isnull="true" iskey="true">
+    <property name="MaxCardRows">0</property>
+    <property name="MaxCardColumns">0</property>
+    <property name="StretchCardToViewWidth">false</property>
+    <property name="StretchCardToViewHeight">false</property>
+  </property>
+  <property name="OptionsItemText" isnull="true" iskey="true">
+    <property name="TextToControlDistance">5</property>
+    <property name="AlignMode">AutoSize</property>
+  </property>
+  <property name="Name">layoutView1</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="CardMinSize">@3,Width=202@3,Height=273</property>
+  <property name="Columns" iskey="true" value="13">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemMemoExEdit1</property>
+      <property name="Caption">Address</property>
+      <property name="CustomizationCaption">Address</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Address</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colAddress</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemComboBox2</property>
+      <property name="Caption">City</property>
+      <property name="CustomizationCaption">City</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">City</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colCity</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemComboBox1</property>
+      <property name="Caption">Country</property>
+      <property name="CustomizationCaption">Country</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Country</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colCountry</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">First Name</property>
+      <property name="CustomizationCaption"> First Name</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">FirstName</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colFirstName</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">Home Phone</property>
+      <property name="CustomizationCaption">Home Phone</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">HomePhone</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colHomePhone</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">Last Name</property>
+      <property name="CustomizationCaption">Last Name</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">LastName</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colLastName</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemMemoEdit1</property>
+      <property name="Caption">Notes</property>
+      <property name="CustomizationCaption">Notes</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="VAlignment">Top</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="VAlignment">Top</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="OptionsFilter" isnull="true" iskey="true">
+        <property name="AllowFilter">false</property>
+      </property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Notes</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colNotes</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowSort">False</property>
+      </property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemPictureEdit1</property>
+      <property name="Caption">Photo</property>
+      <property name="CustomizationCaption">Photo</property>
+      <property name="OptionsFilter" isnull="true" iskey="true">
+        <property name="AllowFilter">false</property>
+      </property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Photo</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colPhoto</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowSort">False</property>
+      </property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemLookUpEdit1</property>
+      <property name="Caption">Postal Code</property>
+      <property name="CustomizationCaption">Postal Code</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">PostalCode</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colPostalCode</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ColumnEditName">repositoryItemComboBox3</property>
+      <property name="Caption">Region</property>
+      <property name="CustomizationCaption">Region</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Region</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colRegion</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">ReportsTo</property>
+      <property name="CustomizationCaption">ReportsTo</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">ReportsTo</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colReportsTo</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">Title</property>
+      <property name="CustomizationCaption">Title</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">Title</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colTitle</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Caption">TitleOfCourtesy</property>
+      <property name="CustomizationCaption">TitleOfCourtesy</property>
+      <property name="ToolTip" />
+      <property name="Visible">true</property>
+      <property name="FieldName">TitleOfCourtesy</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="Name">colTitleOfCourtesy</property>
+      <property name="VisibleIndex">-1</property>
+    </property>
+  </property>
+  <property name="OptionsHeaderPanel" isnull="true" iskey="true">
+    <property name="ShowCarouselModeButton">true</property>
+    <property name="EnableCarouselModeButton">true</property>
+    <property name="ShowMultiColumnModeButton">true</property>
+    <property name="EnableMultiColumnModeButton">true</property>
+    <property name="ShowCustomizeButton">true</property>
+    <property name="EnableCustomizeButton">true</property>
+    <property name="ShowPanButton">true</property>
+    <property name="EnablePanButton">true</property>
+    <property name="ShowRowModeButton">true</property>
+    <property name="EnableRowModeButton">true</property>
+    <property name="ShowSingleModeButton">true</property>
+    <property name="EnableSingleModeButton">true</property>
+    <property name="ShowMultiRowModeButton">true</property>
+    <property name="EnableMultiRowModeButton">true</property>
+    <property name="ShowColumnModeButton">true</property>
+    <property name="EnableColumnModeButton">true</property>
+  </property>
+  <property name="OptionsCustomization" isnull="true" iskey="true">
+    <property name="ShowGroupView">true</property>
+    <property name="ShowSaveLoadLayoutButtons">true</property>
+    <property name="ShowGroupCardCaptions">true</property>
+    <property name="ShowGroupFields">true</property>
+    <property name="ShowGroupCards">true</property>
+    <property name="ShowGroupLayout">true</property>
+    <property name="ShowGroupCardIndents">true</property>
+    <property name="UseAdvancedRuntimeCustomization">false</property>
+    <property name="AllowFilter">true</property>
+    <property name="AllowSort">true</property>
+    <property name="ShowResetShrinkButtons">true</property>
+    <property name="ShowGroupHiddenItems">true</property>
+    <property name="ShowGroupLayoutTreeView">true</property>
+  </property>
+  <property name="CardCaptionFormat">Record [{0} of {1}]</property>
+  <property name="FieldCaptionFormat">{0}:</property>
+  <property name="OptionsSingleRecordMode" isnull="true" iskey="true">
+    <property name="CardAlignment">Center</property>
+    <property name="StretchCardToViewHeight">true</property>
+    <property name="StretchCardToViewWidth">true</property>
+  </property>
+  <property name="OptionsCarouselMode" isnull="true" iskey="true">
+    <property name="PitchAngle">1.57079637</property>
+    <property name="Radius">0</property>
+    <property name="BottomCardScale">0.2</property>
+    <property name="BottomCardAlphaLevel">0</property>
+    <property name="BottomCardFading">0</property>
+    <property name="FrameCount">250</property>
+    <property name="InterpolationMode">Default</property>
+    <property name="FrameDelay">10000</property>
+    <property name="RollAngle">3.14159274</property>
+    <property name="CardCount">15</property>
+  </property>
+</XtraSerializer>
